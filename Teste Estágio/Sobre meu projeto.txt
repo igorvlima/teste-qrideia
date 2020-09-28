@@ -1,0 +1,5 @@
+Esse é o projeto referente ao teste de estágio. Na página "index" foi utilizada HTML, CSS e um pouco
+de JavaScript. Os botões "Home", "Eventos", "Usuários" e "Relatórios" possuem interações em JavaScript
+onde o clique nos botões exibe o título correspondente. Nas Páginas "Eventos.html", "Usuários.html"
+e "Relátorios.html" foi criada uma página de manutenção para o usuário, nessa página há um botão
+que também possui uma interação em JavaScript, para que o usuário retorne a página "Home". 

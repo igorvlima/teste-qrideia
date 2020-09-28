@@ -1,0 +1,11 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+#responsividade {
+    position: relative;
+    width: 1300;
+    height: 500px;
+    margin: 0 auto;
+}
